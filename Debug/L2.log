@@ -1,0 +1,13 @@
+﻿  L2.cpp
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(219,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(219,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(220,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(220,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(250,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(250,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(251,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(251,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(398,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(424,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ann\Desktop\6 семестр\ВОС\L2\L2.cpp(425,35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  L2.vcxproj -> C:\Users\Ann\Desktop\6 семестр\ВОС\L2\Debug\L2.exe
